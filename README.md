@@ -1,3 +1,3 @@
 # Templete_three (Dynamic)
-<h1>Web app Dynamic (As training)</h1>
+<h3>Web app Dynamic (As training)</h3>
 created with html ,css and javascript languages
